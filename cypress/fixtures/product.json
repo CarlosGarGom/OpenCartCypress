@@ -1,0 +1,18 @@
+[
+    {
+        "id": 40,
+        "image": "http://opencart.abstracta.us:80/image/cache/catalog/demo/iphone_1-47x47.jpg",
+        "name": "iPhone",
+        "model": "product 11",
+        "price": 123.20
+        
+    },
+    {
+        "id": 43,
+        "image": "http://opencart.abstracta.us:80/image/cache/catalog/demo/macbook_1-200x200.jpg",
+        "name": "MacBook",
+        "model": "Product 16",
+        "price": 602.00
+
+    }
+]
